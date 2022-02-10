@@ -9,7 +9,7 @@
           <spring-version>5.0.7</spring-version>
           <aspectj-version>1.8.13</aspectj-version>
           <log4j-version>2.10.0</log4j-version>
-          <hibernate-version>5.2.13.Final</hibernate-version>
+          <hibernate-version>5.4.24.Final</hibernate-version>
        </properties>
      <build>
           <finalName>Friday Game Manager</finalName>
